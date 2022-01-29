@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="18" tileheight="18" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="floor.tsx"/>
+ <layer id="1" name="Слой тайлов 1" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzVlmtOAjEQgInHVZFfvj0ECEYNvg8BggFf+LgEiYl4D6dJN5lMpttpt7NdfnxR2Nl2vpnpLr2NVmu85vSAU+ARWCoxTrDGFgFfGwFd6xGy76Zda7vkmut6jLfJ8RA4Ao6BEyZnzsPHyO7F9bBre9yLWNeFWfMWuAPugYdEHr49U3sYPoBP4Av4ZtZfF48eg6ZHMXOuuaNwZ9GcMe5sYQe6NvaQPFdSPHsktXDVgHPQ6EcujMccWCGKayvCPAF0TW79WI8Z8IJYks+GX08OUv6YtfEesXWZMx45Ca1Xcd8swiOkXpc1+RceFyV7npPcQmqb4kw9o1xd9Zkx8Vz9uf9zQvMoPIoz6KpJ7ry5+eDmKqbeIbNBe18V+tzjPEJmNWYGNIh5XlWdZS0P33s2lh+7h8ba3G+BM7tnSmi9fLFV9+sreUjzS+FAPabCe9rADtCJyE+6h0Y/6N4TYGD/lrlUxeXMfR8zV23rMYi4Vwvs0RbWt28dTPyT0Ns3hyk9JsK8Jra3klhJfD+xR9OQzkfTPaTzoeGh9VzdcXxf5M55uO4p6/80M50E/TC1OMgM7kdIH3BsXR43FpfHNcmxbC0aI7knpYPLY2g9JDm5rmt64PwXQg+fSx11T9GPJuQbC/ZwuWrV0BWPv9sF9gj7GTzoTJu8rphcXM5DG4/h8qVzVeaCa8PVZCHI7RV4A94FzjgeQ+/lPHwzSGuSawab6iGZh7LYEA/cY663dXvE9qMOuNmSzBx3zqvMqYYLfgZI34O+93+qHEPPgfR9TmM1PWLq5IvHHqn6QN8jVfshgeuHRh9CahvrYd4H9DfMumEc/gFwdNJ1
+  </data>
+ </layer>
+</map>
